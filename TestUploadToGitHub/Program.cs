@@ -10,6 +10,7 @@ namespace TestUploadToGitHub
     {
         static void Main(string[] args)
         {
+            var asd = new object();
         }
     }
 }
